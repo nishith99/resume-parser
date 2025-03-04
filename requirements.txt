@@ -1,0 +1,9 @@
+pip install --
+
+cohere
+pandas
+PyPDF2
+python-docx
+tk 
+
+And your own API key from cohere site of command R+ model
